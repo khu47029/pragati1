@@ -1,0 +1,9 @@
+name: Ultra JSON Check
+on: [push, pull_request]
+jobs:
+  json-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON
+        run: python -m json.tool data/services-ultra.json > /dev/null

@@ -1,0 +1,12 @@
+name: Ultra File Map Check
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: List important files
+        run: |
+          test -f assets/css/ps-ultra-system.css
+          test -f pages/ai-audit-dashboard.html
+          test -f pages/proposal-builder.html
