@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Social Proof System",
+  "author": {
+    "@type": "Organization",
+    "name": "Pragati Sahayak"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pragati Sahayak"
+  },
+  "mainEntityOfPage": "https://pragatisahayak.in/"
+}

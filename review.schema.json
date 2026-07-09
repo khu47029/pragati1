@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": "Pragati Sahayak",
+  "description": "Review schema template for Pragati Sahayak website add-ons.",
+  "url": "https://pragatisahayak.in/"
+}

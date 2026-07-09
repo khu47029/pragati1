@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPoint",
+  "name": "Pragati Sahayak",
+  "description": "ContactPoint schema template for Pragati Sahayak website add-ons.",
+  "url": "https://pragatisahayak.in/"
+}

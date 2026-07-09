@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "AggregateRating",
+  "name": "Pragati Sahayak",
+  "description": "AggregateRating schema template for Pragati Sahayak website add-ons.",
+  "url": "https://pragatisahayak.in/"
+}

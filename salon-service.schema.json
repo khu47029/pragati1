@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Salon Website Growth System",
+  "provider": {
+    "@type": "Organization",
+    "name": "Pragati Sahayak"
+  },
+  "areaServed": "India",
+  "serviceType": "Website design, local SEO, online trust and WhatsApp lead system"
+}

@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Pragati Sahayak",
+  "description": "HowTo schema template for Pragati Sahayak website add-ons.",
+  "url": "https://pragatisahayak.in/"
+}
