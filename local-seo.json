@@ -1,15 +1,17 @@
 {
-  "name": "Local Seo",
-  "brand": "Pragati Sahayak",
-  "goal": "Help local businesses use local seo to improve online trust and inquiries.",
-  "sections": [
-    "Problem",
-    "Solution",
-    "Features",
-    "Benefits",
-    "FAQ",
-    "Call to action"
-  ],
-  "cta": "Get Free Online Presence Audit",
-  "schemaType": "Service"
+  "category": "Local Seo",
+  "faqs": [
+    {
+      "q": "What is local seo for local businesses?",
+      "a": "It is a practical way to improve clarity, trust and customer inquiry flow online."
+    },
+    {
+      "q": "How does Pragati Sahayak help?",
+      "a": "Pragati Sahayak builds premium website sections, WhatsApp CTA, SEO-ready content, FAQs and trust proof."
+    },
+    {
+      "q": "What is the next step?",
+      "a": "Start with a free online presence audit and then choose a suitable website or growth system."
+    }
+  ]
 }

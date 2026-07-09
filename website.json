@@ -1,6 +1,17 @@
 {
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Pragati Sahayak",
-  "url": "https://pragatisahayak.in/"
+  "category": "Website",
+  "faqs": [
+    {
+      "q": "What is website for local businesses?",
+      "a": "It is a practical way to improve clarity, trust and customer inquiry flow online."
+    },
+    {
+      "q": "How does Pragati Sahayak help?",
+      "a": "Pragati Sahayak builds premium website sections, WhatsApp CTA, SEO-ready content, FAQs and trust proof."
+    },
+    {
+      "q": "What is the next step?",
+      "a": "Start with a free online presence audit and then choose a suitable website or growth system."
+    }
+  ]
 }

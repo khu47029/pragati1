@@ -1,20 +1,17 @@
 {
-  "industry": "Salon",
-  "recommendedPackage": "Growth or Premium depending on services and lead needs",
-  "mustHaveSections": [
-    "Hero",
-    "Services",
-    "Gallery",
-    "Reviews",
-    "Location",
-    "FAQ",
-    "WhatsApp CTA"
-  ],
-  "commonProblems": [
-    "No premium online image",
-    "Weak Google profile",
-    "Low trust proof",
-    "No lead capture system"
-  ],
-  "solution": "Salon website system with SEO-ready pages, WhatsApp inquiries and trust sections."
+  "category": "Salon",
+  "faqs": [
+    {
+      "q": "What is salon for local businesses?",
+      "a": "It is a practical way to improve clarity, trust and customer inquiry flow online."
+    },
+    {
+      "q": "How does Pragati Sahayak help?",
+      "a": "Pragati Sahayak builds premium website sections, WhatsApp CTA, SEO-ready content, FAQs and trust proof."
+    },
+    {
+      "q": "What is the next step?",
+      "a": "Start with a free online presence audit and then choose a suitable website or growth system."
+    }
+  ]
 }
