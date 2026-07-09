@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Interior Designer ko website kyu chahiye?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior Designer customers online trust, service details, photos, reviews and WhatsApp inquiry check karte hain. A premium website this journey ko easy banati hai."
+      }
+    }
+  ]
+}

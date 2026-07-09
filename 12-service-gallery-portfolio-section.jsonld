@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Gallery Portfolio Section",
+  "provider": {
+    "@type": "Organization",
+    "name": "Pragati Sahayak"
+  },
+  "areaServed": "India",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Local Indian businesses"
+  }
+}

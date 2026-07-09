@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Local Business Website in Lucknow",
+  "provider": {
+    "@type": "Organization",
+    "name": "Pragati Sahayak"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Lucknow"
+  }
+}
