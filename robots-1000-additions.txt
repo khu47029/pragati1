@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://pragatisahayak.in/sitemap.xml
+Sitemap: https://pragatisahayak.in/sitemap-1000-additions.xml

@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does Pragati Sahayak do?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pragati Sahayak builds premium websites, WhatsApp lead systems and AI-search-ready content for local businesses."
+      }
+    }
+  ]
+}

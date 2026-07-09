@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Pragati Sahayak",
+  "areaServed": "India",
+  "serviceType": [
+    "Premium Website System",
+    "Growth Website System",
+    "AI Search Ready Website",
+    "WhatsApp Lead System",
+    "Google Profile Improvement",
+    "Local SEO Starter"
+  ]
+}

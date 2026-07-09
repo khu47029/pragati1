@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "CLIENT_NAME",
+  "address": "CLIENT_CITY",
+  "url": "CLIENT_WEBSITE"
+}

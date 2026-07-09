@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to audit a local business online presence",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "text": "Check website, reviews, services, WhatsApp CTA and Google profile."
+    }
+  ]
+}
