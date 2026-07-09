@@ -1,0 +1,20 @@
+{
+  "industry": "Optical Store",
+  "customerProblem": "Customers check optical store online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best optical store website features",
+    "How optical store can increase local trust",
+    "Online booking system for optical store"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

@@ -1,0 +1,20 @@
+{
+  "industry": "Dance Academy",
+  "customerProblem": "Customers check dance academy online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best dance academy website features",
+    "How dance academy can increase local trust",
+    "Online booking system for dance academy"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

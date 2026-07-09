@@ -1,0 +1,20 @@
+{
+  "industry": "Ayurvedic Clinic",
+  "customerProblem": "Customers check ayurvedic clinic online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best ayurvedic clinic website features",
+    "How ayurvedic clinic can increase local trust",
+    "Online booking system for ayurvedic clinic"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

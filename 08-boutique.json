@@ -1,0 +1,20 @@
+{
+  "industry": "Boutique",
+  "customerProblem": "Customers check boutique online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best boutique website features",
+    "How boutique can increase local trust",
+    "Online booking system for boutique"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

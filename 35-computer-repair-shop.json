@@ -1,0 +1,20 @@
+{
+  "industry": "Computer Repair Shop",
+  "customerProblem": "Customers check computer repair shop online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best computer repair shop website features",
+    "How computer repair shop can increase local trust",
+    "Online booking system for computer repair shop"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

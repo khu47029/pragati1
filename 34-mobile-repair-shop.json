@@ -1,0 +1,20 @@
+{
+  "industry": "Mobile Repair Shop",
+  "customerProblem": "Customers check mobile repair shop online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best mobile repair shop website features",
+    "How mobile repair shop can increase local trust",
+    "Online booking system for mobile repair shop"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

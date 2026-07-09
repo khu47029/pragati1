@@ -1,0 +1,20 @@
+{
+  "industry": "Restaurant",
+  "customerProblem": "Customers check restaurant online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best restaurant website features",
+    "How restaurant can increase local trust",
+    "Online booking system for restaurant"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

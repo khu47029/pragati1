@@ -1,0 +1,20 @@
+{
+  "industry": "Music Academy",
+  "customerProblem": "Customers check music academy online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best music academy website features",
+    "How music academy can increase local trust",
+    "Online booking system for music academy"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

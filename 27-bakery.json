@@ -1,0 +1,20 @@
+{
+  "industry": "Bakery",
+  "customerProblem": "Customers check bakery online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best bakery website features",
+    "How bakery can increase local trust",
+    "Online booking system for bakery"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

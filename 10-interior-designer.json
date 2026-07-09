@@ -1,0 +1,20 @@
+{
+  "industry": "Interior Designer",
+  "customerProblem": "Customers check interior designer online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best interior designer website features",
+    "How interior designer can increase local trust",
+    "Online booking system for interior designer"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

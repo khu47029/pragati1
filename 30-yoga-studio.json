@@ -1,0 +1,20 @@
+{
+  "industry": "Yoga Studio",
+  "customerProblem": "Customers check yoga studio online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best yoga studio website features",
+    "How yoga studio can increase local trust",
+    "Online booking system for yoga studio"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

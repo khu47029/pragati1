@@ -1,0 +1,20 @@
+{
+  "industry": "Printing Shop",
+  "customerProblem": "Customers check printing shop online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best printing shop website features",
+    "How printing shop can increase local trust",
+    "Online booking system for printing shop"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

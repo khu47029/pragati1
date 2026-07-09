@@ -1,0 +1,20 @@
+{
+  "industry": "Physiotherapy Clinic",
+  "customerProblem": "Customers check physiotherapy clinic online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best physiotherapy clinic website features",
+    "How physiotherapy clinic can increase local trust",
+    "Online booking system for physiotherapy clinic"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

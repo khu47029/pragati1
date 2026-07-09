@@ -1,0 +1,20 @@
+{
+  "industry": "Hotel",
+  "customerProblem": "Customers check hotel online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best hotel website features",
+    "How hotel can increase local trust",
+    "Online booking system for hotel"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

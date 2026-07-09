@@ -1,0 +1,20 @@
+{
+  "industry": "Photographer",
+  "customerProblem": "Customers check photographer online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best photographer website features",
+    "How photographer can increase local trust",
+    "Online booking system for photographer"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

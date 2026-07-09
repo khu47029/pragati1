@@ -1,0 +1,20 @@
+{
+  "industry": "Makeup Artist",
+  "customerProblem": "Customers check makeup artist online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best makeup artist website features",
+    "How makeup artist can increase local trust",
+    "Online booking system for makeup artist"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

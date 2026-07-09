@@ -1,0 +1,20 @@
+{
+  "industry": "Bike Service Center",
+  "customerProblem": "Customers check bike service center online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best bike service center website features",
+    "How bike service center can increase local trust",
+    "Online booking system for bike service center"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

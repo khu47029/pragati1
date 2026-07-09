@@ -1,0 +1,20 @@
+{
+  "industry": "Architect Office",
+  "customerProblem": "Customers check architect office online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best architect office website features",
+    "How architect office can increase local trust",
+    "Online booking system for architect office"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

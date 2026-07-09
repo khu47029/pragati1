@@ -1,0 +1,20 @@
+{
+  "industry": "Car Service Center",
+  "customerProblem": "Customers check car service center online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best car service center website features",
+    "How car service center can increase local trust",
+    "Online booking system for car service center"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

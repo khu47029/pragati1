@@ -1,0 +1,20 @@
+{
+  "industry": "Event Planner",
+  "customerProblem": "Customers check event planner online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best event planner website features",
+    "How event planner can increase local trust",
+    "Online booking system for event planner"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}

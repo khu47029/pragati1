@@ -1,0 +1,20 @@
+{
+  "industry": "Gym",
+  "customerProblem": "Customers check gym online before visiting or calling.",
+  "digitalSystem": [
+    "Premium homepage",
+    "Service details",
+    "Reviews",
+    "Gallery",
+    "WhatsApp inquiry",
+    "Google profile support",
+    "FAQ"
+  ],
+  "bestCTA": "Book / Ask on WhatsApp",
+  "contentAngles": [
+    "Best gym website features",
+    "How gym can increase local trust",
+    "Online booking system for gym"
+  ],
+  "schemaSuggestion": "LocalBusiness + Service + FAQPage"
+}
