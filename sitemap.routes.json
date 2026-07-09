@@ -1,0 +1,14 @@
+{
+  "priorityRoutes": [
+    "/",
+    "/services.html",
+    "/ai-search-ready-website.html",
+    "/dental-clinic-website.html",
+    "/salon-website.html",
+    "/gym-website.html",
+    "/coaching-website.html",
+    "/restaurant-website.html",
+    "/case-studies.html",
+    "/blog.html"
+  ]
+}

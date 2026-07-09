@@ -1,0 +1,16 @@
+name: SEO issue
+description: Track SEO, AEO, GEO, LLMO or E-E-A-T improvements
+title: "[SEO]: "
+labels: [seo, content]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [SEO, AEO, GEO, LLMO, E-E-A-T, Schema, Performance]
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+    validations:
+      required: true

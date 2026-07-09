@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "premiumNavy": "#050B18",
+    "trustBlue": "#1E66FF",
+    "gold": "#D7A849",
+    "white": "#FFFFFF"
+  },
+  "fonts": [
+    "Plus Jakarta Sans",
+    "Inter"
+  ],
+  "voice": "Premium, local Indian, clear Hinglish, trust-first."
+}

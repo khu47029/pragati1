@@ -1,0 +1,6 @@
+{
+  "largestContentfulPaint": "<2.5s",
+  "cumulativeLayoutShift": "<0.1",
+  "javascriptBudgetKb": 250,
+  "imageBudgetKb": 600
+}

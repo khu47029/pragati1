@@ -1,0 +1,13 @@
+{
+  "allow": [
+    "/",
+    "/blog.html",
+    "/services.html"
+  ],
+  "disallow": [
+    "/internal/",
+    "/templates/",
+    "/playbooks/",
+    "/ops/"
+  ]
+}

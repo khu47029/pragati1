@@ -1,0 +1,9 @@
+{
+  "optionalTools": [
+    "vite",
+    "html-validate",
+    "pa11y",
+    "lighthouse-ci"
+  ],
+  "note": "Static site works without build tools; these are professional repo recommendations."
+}

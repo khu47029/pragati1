@@ -1,0 +1,12 @@
+name: Bug report
+description: Report website issue
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is broken?
+      description: Share URL, screenshot notes, browser, and expected result.
+    validations:
+      required: true

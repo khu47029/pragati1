@@ -1,0 +1,12 @@
+name: Feature request
+description: Suggest a premium feature for Pragati Sahayak
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: Feature idea
+      description: Describe the client benefit and page/service impacted.
+    validations:
+      required: true

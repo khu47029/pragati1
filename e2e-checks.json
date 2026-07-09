@@ -1,0 +1,10 @@
+{
+  "criticalPaths": [
+    "Homepage CTA",
+    "WhatsApp click",
+    "Contact form visibility",
+    "FAQ visibility",
+    "Service page navigation"
+  ],
+  "mobileBreakpoint": "360px"
+}
