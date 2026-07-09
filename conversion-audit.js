@@ -1,0 +1,1 @@
+(function(){window.PSConversion={checklist:['Clear headline','Primary CTA above fold','WhatsApp CTA','Service benefits','Trust proof','Reviews','FAQ','Fast mobile load','Contact visible','Follow-up path']}})();

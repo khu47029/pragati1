@@ -1,0 +1,5 @@
+(function(){
+  const templates={audit:'Namaste, main Pragati Sahayak se Khushhal. Maine aapka business online dekha. 3 quick improvements share kar sakta hoon jo trust aur inquiries improve kar sakte hain. Kya WhatsApp par bhej du?',followup:'Namaste, kal humne online presence ke baare me baat ki thi. Aapke business ke liye website + WhatsApp inquiry system ka short plan ready hai. Share karu?',proposal:'Aapke business ke liye premium website + trust + lead system proposal ready hai. Isme service presentation, reviews, gallery, WhatsApp CTA aur SEO-ready structure include hai.'};
+  window.PSWhatsApp={templates,build(type='audit',name='') {return (name?`Hello ${name}, `:'') + templates[type]}};
+  document.addEventListener('click',e=>{const btn=e.target.closest('[data-wa-template]'); if(!btn)return; const msg=PSWhatsApp.build(btn.dataset.waTemplate,document.querySelector('[name="clientName"]')?.value||''); const out=document.querySelector('[data-wa-output]'); if(out)out.value=msg;});
+})();

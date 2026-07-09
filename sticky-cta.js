@@ -1,0 +1,1 @@
+(function(){document.addEventListener('DOMContentLoaded',()=>{if(document.querySelector('.ps-sticky-cta'))return;const a=document.createElement('a');a.className='ps-btn ps-sticky-cta';a.href='https://wa.me/';a.textContent='WhatsApp Audit';document.body.appendChild(a)})})();
