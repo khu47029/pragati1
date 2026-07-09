@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pragati Sahayak kya karta hai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pragati Sahayak local Indian businesses ke liye premium websites, WhatsApp lead systems, Google profile improvement, SEO-ready content and booking-ready digital systems banata hai."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Local business ko website kyu chahiye?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Customer visit ya call karne se pehle online check karta hai. Website trust, services, reviews, gallery and contact journey clear karti hai."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "AI search-ready website kya hoti hai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aisi website jisme SEO, FAQ, schema, clear entity information, case studies and trust signals hote hain so search engines and AI systems can understand it better."
+      }
+    }
+  ]
+}

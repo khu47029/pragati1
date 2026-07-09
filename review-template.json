@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "reviewBody": "CLIENT_REVIEW",
+  "author": {
+    "@type": "Person",
+    "name": "CLIENT_NAME"
+  }
+}

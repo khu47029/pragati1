@@ -1,0 +1,23 @@
+[
+  {
+    "package": "Fast",
+    "fit": "Basic presence",
+    "pages": "1",
+    "support": "3 days",
+    "focus": "Fast launch"
+  },
+  {
+    "package": "Growth",
+    "fit": "Most local businesses",
+    "pages": "Multi-page",
+    "support": "1 month",
+    "focus": "Trust + leads"
+  },
+  {
+    "package": "Premium",
+    "fit": "Authority businesses",
+    "pages": "Advanced",
+    "support": "3 months",
+    "focus": "AI-search ready growth system"
+  }
+]

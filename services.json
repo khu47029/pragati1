@@ -1,0 +1,38 @@
+[
+  {
+    "id": "premium-website",
+    "name": "Premium Business Website",
+    "bestFor": "Clinics, salons, gyms, coaching, restaurants",
+    "outcome": "Premium online trust and clear service presentation"
+  },
+  {
+    "id": "landing-page",
+    "name": "Landing Page",
+    "bestFor": "Ads, campaigns, launches",
+    "outcome": "Focused inquiry and conversion path"
+  },
+  {
+    "id": "whatsapp-leads",
+    "name": "WhatsApp Lead System",
+    "bestFor": "Local businesses wanting direct inquiries",
+    "outcome": "Faster customer conversation"
+  },
+  {
+    "id": "gbp",
+    "name": "Google Business Profile Improvement",
+    "bestFor": "Location-based businesses",
+    "outcome": "Better local trust and discovery"
+  },
+  {
+    "id": "basic-seo",
+    "name": "Basic SEO Setup",
+    "bestFor": "Websites that need Google structure",
+    "outcome": "Clear pages, meta, headings and sitemap"
+  },
+  {
+    "id": "content-copy",
+    "name": "Website Copywriting",
+    "bestFor": "Businesses with weak content",
+    "outcome": "Clear, trust-building service communication"
+  }
+]
