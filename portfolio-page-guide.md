@@ -1,4 +1,4 @@
-# Seo Aeo Geo Llmo Checklist
+# Portfolio Page Guide
 
 ## Purpose
 This document helps Pragati Sahayak keep the website professional, useful, premium and client-ready.
