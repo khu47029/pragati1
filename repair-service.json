@@ -1,0 +1,20 @@
+{
+  "industry": "Repair Service",
+  "recommendedPackage": "Growth or Premium depending on services and lead needs",
+  "mustHaveSections": [
+    "Hero",
+    "Services",
+    "Gallery",
+    "Reviews",
+    "Location",
+    "FAQ",
+    "WhatsApp CTA"
+  ],
+  "commonProblems": [
+    "No premium online image",
+    "Weak Google profile",
+    "Low trust proof",
+    "No lead capture system"
+  ],
+  "solution": "Repair Service website system with SEO-ready pages, WhatsApp inquiries and trust sections."
+}

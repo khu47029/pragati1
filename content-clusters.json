@@ -1,0 +1,66 @@
+[
+  {
+    "cluster": "Local SEO",
+    "pages": [
+      "local seo guide",
+      "local seo checklist",
+      "local seo FAQ"
+    ]
+  },
+  {
+    "cluster": "AI Search",
+    "pages": [
+      "ai search guide",
+      "ai search checklist",
+      "ai search FAQ"
+    ]
+  },
+  {
+    "cluster": "Website Trust",
+    "pages": [
+      "website trust guide",
+      "website trust checklist",
+      "website trust FAQ"
+    ]
+  },
+  {
+    "cluster": "WhatsApp Leads",
+    "pages": [
+      "whatsapp leads guide",
+      "whatsapp leads checklist",
+      "whatsapp leads FAQ"
+    ]
+  },
+  {
+    "cluster": "Google Profile",
+    "pages": [
+      "google profile guide",
+      "google profile checklist",
+      "google profile FAQ"
+    ]
+  },
+  {
+    "cluster": "Case Studies",
+    "pages": [
+      "case studies guide",
+      "case studies checklist",
+      "case studies FAQ"
+    ]
+  },
+  {
+    "cluster": "Industry Pages",
+    "pages": [
+      "industry pages guide",
+      "industry pages checklist",
+      "industry pages FAQ"
+    ]
+  },
+  {
+    "cluster": "City Pages",
+    "pages": [
+      "city pages guide",
+      "city pages checklist",
+      "city pages FAQ"
+    ]
+  }
+]

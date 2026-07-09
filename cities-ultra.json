@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Agra",
+    "slug": "agra",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Delhi",
+    "slug": "delhi",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Noida",
+    "slug": "noida",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Gurugram",
+    "slug": "gurugram",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Lucknow",
+    "slug": "lucknow",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Kanpur",
+    "slug": "kanpur",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Jaipur",
+    "slug": "jaipur",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Meerut",
+    "slug": "meerut",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Ghaziabad",
+    "slug": "ghaziabad",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Faridabad",
+    "slug": "faridabad",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Mathura",
+    "slug": "mathura",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Aligarh",
+    "slug": "aligarh",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Bareilly",
+    "slug": "bareilly",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Varanasi",
+    "slug": "varanasi",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Prayagraj",
+    "slug": "prayagraj",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Chandigarh",
+    "slug": "chandigarh",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Dehradun",
+    "slug": "dehradun",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Haridwar",
+    "slug": "haridwar",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Bhopal",
+    "slug": "bhopal",
+    "country": "India",
+    "target": "local businesses"
+  },
+  {
+    "name": "Indore",
+    "slug": "indore",
+    "country": "India",
+    "target": "local businesses"
+  }
+]

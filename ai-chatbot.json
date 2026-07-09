@@ -1,0 +1,15 @@
+{
+  "name": "Ai Chatbot",
+  "brand": "Pragati Sahayak",
+  "goal": "Help local businesses use ai chatbot to improve online trust and inquiries.",
+  "sections": [
+    "Problem",
+    "Solution",
+    "Features",
+    "Benefits",
+    "FAQ",
+    "Call to action"
+  ],
+  "cta": "Get Free Online Presence Audit",
+  "schemaType": "Service"
+}

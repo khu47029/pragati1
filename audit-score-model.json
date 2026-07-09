@@ -1,0 +1,56 @@
+{
+  "version": "1.0",
+  "maxScore": 100,
+  "factors": [
+    {
+      "key": "website",
+      "points": 10,
+      "label": "Website available"
+    },
+    {
+      "key": "mobile",
+      "points": 10,
+      "label": "Mobile responsive"
+    },
+    {
+      "key": "speed",
+      "points": 10,
+      "label": "Fast load"
+    },
+    {
+      "key": "services",
+      "points": 10,
+      "label": "Clear services"
+    },
+    {
+      "key": "reviews",
+      "points": 10,
+      "label": "Reviews"
+    },
+    {
+      "key": "gallery",
+      "points": 10,
+      "label": "Gallery"
+    },
+    {
+      "key": "whatsapp",
+      "points": 10,
+      "label": "WhatsApp CTA"
+    },
+    {
+      "key": "faq",
+      "points": 10,
+      "label": "FAQ"
+    },
+    {
+      "key": "schema",
+      "points": 10,
+      "label": "Schema"
+    },
+    {
+      "key": "caseStudy",
+      "points": 10,
+      "label": "Proof/case study"
+    }
+  ]
+}

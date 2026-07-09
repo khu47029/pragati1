@@ -1,0 +1,17 @@
+[
+  {
+    "package": "Fast",
+    "price": 12999,
+    "bestFor": "Small one-page site"
+  },
+  {
+    "package": "Growth",
+    "price": 16999,
+    "bestFor": "Multi-page local business site"
+  },
+  {
+    "package": "Premium",
+    "price": 27999,
+    "bestFor": "AI-search-ready premium system"
+  }
+]

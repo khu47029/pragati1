@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Premium Website System",
+    "slug": "premium-website",
+    "description": "Mobile-friendly SEO-ready website with trust sections and WhatsApp CTA",
+    "startingPrice": 12999
+  },
+  {
+    "name": "Growth Website System",
+    "slug": "growth-website",
+    "description": "Multi-page website with service pages, Google profile link and lead capture",
+    "startingPrice": 16999
+  },
+  {
+    "name": "AI Search Ready Website",
+    "slug": "ai-search-ready",
+    "description": "SEO + AEO + GEO + LLMO + E-E-A-T focused content and schema system",
+    "startingPrice": 27999
+  },
+  {
+    "name": "WhatsApp Lead System",
+    "slug": "whatsapp-lead-system",
+    "description": "Inquiry buttons, message templates, form routing and follow-up copy",
+    "startingPrice": 4999
+  },
+  {
+    "name": "Google Profile Improvement",
+    "slug": "google-profile-improvement",
+    "description": "Service, description, photo, review and CTA improvement plan",
+    "startingPrice": 3999
+  },
+  {
+    "name": "Local SEO Starter",
+    "slug": "local-seo-starter",
+    "description": "Basic technical SEO, sitemap, meta, internal linking and local keywords",
+    "startingPrice": 6999
+  }
+]
